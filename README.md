@@ -1,7 +1,6 @@
 ### Hi, I'm Juce :wave:
 
-- ⚡ I'm a computer science student from the UK
-- 🌱 Currently just trying to pass my exams
+- ⚡ school sucks yo
 - 🔭 I have a huge love for VR
 - 🏠 https://yo.juce.rocks/tiddies
 
