@@ -1,14 +1,14 @@
-### Hi, I'm Juce :wave:
+### Hi, I'm Juce or Alex :wave:
 
-- ⚡ school sucks yo
-- 🔭 I have a huge love for VR
-- 🏠 https://yo.juce.rocks/tiddies
+- ⚡ Studying Computer Science in University right now
+- 🔭 Interested in XR development and research
+- 🏠 https://yo.juce.rocks/profyle/
 
 ### Check me out 📧
 
 - [Twitter](http://yo.juce.rocks/twitter)
 - [Twitch](https://yo.juce.rocks/ttv)
-- [Discord](https://yo.juce.rocks/discord)
+- [Discord](https://yo.juce.rocks/discord) or friend me: Juce#0001
 
 ⭐️ ⭐️ ⭐️ 
 
