@@ -1,19 +1,13 @@
 ### Hi, I'm Juce or Alex :wave:
 
-- ⚡ Studying Computer Science in University right now
-- 🔭 Interested in XR development and research
-- 🏠 https://yo.juce.rocks/profyle/
-
-### Check me out 📧
-
-- [Twitter](http://yo.juce.rocks/twitter)
-- [Twitch](https://yo.juce.rocks/ttv)
-- [Discord](https://yo.juce.rocks/discord) or friend me: Juce#0001
+- ⚡ Studying Computer Science in University
+- 🔭 I'm currently working on Jaid, my issue management service.
+- 🏠 https://profyle.net/ (Currently in development and may not function properly)
 
 ⭐️ ⭐️ ⭐️ 
 
 <!--
-**juuuuce/juuuuce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jucedev/jucedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
