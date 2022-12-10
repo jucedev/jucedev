@@ -1,14 +1,13 @@
-### Hi, I'm Alex :wave:
+### 👋 Hi, I'm Alex 
 
 - ⚡ Studying Computer Science in University
 - 🔭 My primary projects are Jaid, my issue management service, and Turret, an open source app monitoring service
 - 🦝 Check out the racccoooon group for more open source projects
 
+### 🔌 Links
 - 🌱 https://maddison.dev/ - My personal website (WIP)
 - 🏠 https://profyle.net/ - Create your own personalised profile page!
 - 📫 https://www.nuget.org/profiles/Juce - my nuget packages
-
-⭐️ ⭐️ ⭐️ 
 
 <!--
 **jucedev/jucedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
