@@ -1,8 +1,12 @@
-### Hi, I'm Juce or Alex :wave:
+### Hi, I'm Alex :wave:
 
 - ⚡ Studying Computer Science in University
-- 🔭 I'm currently working on Jaid, my issue management service.
-- 🏠 https://profyle.net/ (Currently in development and may not function properly)
+- 🔭 My primary projects are Jaid, my issue management service, and Turret, an open source app monitoring service
+- 🦝 Check out the racccoooon group for more open source projects
+
+- 🌱 https://maddison.dev/ - My personal website (WIP)
+- 🏠 https://profyle.net/ - Create your own personalised profile page!
+- 📫 https://www.nuget.org/profiles/Juce - my nuget packages
 
 ⭐️ ⭐️ ⭐️ 
 
