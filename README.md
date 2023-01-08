@@ -1,11 +1,12 @@
 ### 👋 Hi, I'm Alex 
 
-- ⚡ Studying Computer Science in University
-- 🔭 My primary projects are Jaid, my issue management service, and Turret, an open source app monitoring service
-- 🦝 Check out the racccoooon group for more open source projects
+- ⚡ Recently dropped out of a comp sci degree 
+- 🔭 I'm currently working on some top secret stuff.. it's pretty cool
+- 🦝 Check out the racccoooon group for my friends and I's open source projects
 
 ### 🔌 Links
 - 🌱 https://maddison.dev/ - My personal website (WIP)
+- 🤔 https://juce.gg/ - we don't talk about it..
 - 🏠 https://profyle.net/ - Create your own personalised profile page!
 - 📫 https://www.nuget.org/profiles/Juce - my nuget packages
 
