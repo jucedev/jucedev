@@ -1,14 +1,13 @@
 ### 👋 Hi, I'm Alex 
 
-- ⚡ Recently dropped out of a comp sci degree 
-- 🔭 I'm currently working on some top secret stuff.. it's pretty cool
-- 🦝 Check out the racccoooon group for my friends and I's open source projects
+- ⚡ Comp sci dropout 🤙🤙
+- 🦝 Check out the racccoooon group for some open source projects
 
 ### 🔌 Links
-- 🌱 https://maddison.dev/ - My personal website (WIP)
-- 🤔 https://juce.gg/ - we don't talk about it..
-- 🏠 https://profyle.net/ - Create your own personalised profile page!
-- 📫 https://www.nuget.org/profiles/Juce - my nuget packages
+- 🤔 https://juce.gg/
+- 🌱 https://maddison.dev/
+- 🏠 https://profyle.net/
+- 📫 https://www.nuget.org/profiles/Juce
 
 <!--
 **jucedev/jucedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
