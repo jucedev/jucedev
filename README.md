@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Alex 
 
-- ⚡ Comp sci dropout 🤙🤙
-- 🦝 Check out the racccoooon group for some open source projects
+- 🌱 Full-stack cat
+- 🦝 Check out the racccoooon group for some open source stuff
 
 ### 🔌 Links
 - 🤔 https://juce.gg/
