@@ -1,12 +1,11 @@
-### 👋 Hi, I'm Alex 
+### 👋 Hi, I'm Juce!
 
-- 🌱 Full-stack cat
-- 🦝 Check out the racccoooon group for some open source stuff
+- 🌱 Full-stack cat, primarily working with React & ASP.NET Core
+- 🦝 Check out the racccoooon group for some more open source stuff
 
 ### 🔌 Links
 - 🤔 https://juce.gg/
-- 🌱 https://maddison.dev/
-- 🏠 https://profyle.net/
+- 🏠 https://profyle.net/juce
 - 📫 https://www.nuget.org/profiles/Juce
 
 <!--
